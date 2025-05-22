@@ -1,4 +1,4 @@
-package com.telusko.SpringAIDemo;
+package com.mahi.SpringAIDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -35,11 +35,7 @@ SpringAIDemo/
 
 ### Backend Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/navinreddy20/SpringAIwithModels.git
-  
-   ```
+1. Clone the repository.
 
 2. Configure your API keys in `application.properties` or via environment variables:
    ```properties
@@ -71,21 +67,9 @@ SpringAIDemo/
    ```
 
 
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Acknowledgements
 
 - [Spring AI](https://spring.io/projects/spring-ai)
 - [OpenAI API](https://openai.com/blog/openai-api)
 - [Anthropic Claude API](https://www.anthropic.com/product)
 - [Ollama](https://ollama.ai/)
-
-## Contact
-
-For any questions or feedback, please check out:
-- YouTube Channel: [Telusko](https://youtube.com/Telusko)
-- GitHub: [navinreddy20/SpringAIwithModels](https://github.com/navinreddy20/SpringAIwithModels)

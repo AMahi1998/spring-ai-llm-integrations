@@ -1,4 +1,4 @@
-package com.telusko.SpringAIDemo;
+package com.mahi.SpringAIDemo;
 
 import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.http.ResponseEntity;
